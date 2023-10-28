@@ -1,0 +1,27 @@
+h1{
+  color: red;
+}
+p{
+  color: violet;
+}
+button{
+  color: blue;
+  background-color: burlywood;
+}
+body{
+  background-color: black;
+  background: url("86410.jpg");
+  background-size: cover;
+}
+.a{
+  color: lightcoral;
+}
+.b{
+  color: lightgreen;
+}
+.c{
+  color: lightblue;
+}
+.d{
+  color: lightpink;
+}
